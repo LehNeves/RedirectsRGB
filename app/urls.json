@@ -1,0 +1,8 @@
+[
+	{"301": {
+		"to": "url-destino",
+		"from": [
+			"urls-origem"
+		]
+	}}
+]
